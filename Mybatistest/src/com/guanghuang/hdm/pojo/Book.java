@@ -8,7 +8,7 @@ public class Book {
 	
 	public Book() {
 	}
-	
+	//构造方法
 	public Book(int id, String bname, String author, double price) {
 		this.id = id;
 		this.bname = bname;
